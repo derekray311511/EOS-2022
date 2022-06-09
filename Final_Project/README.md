@@ -24,7 +24,7 @@
 
 ## Hardware
 1. `1~N` PXA270 boards   
-(To change the player number, check` data_utils.h` NUM_PLAYERS variable)  
+(To change the player number, check `data_utils.h` NUM_PLAYERS variable)  
 (Default: 2 Players)
 2. A server computer (default: Ubuntu20.04 system)
 
