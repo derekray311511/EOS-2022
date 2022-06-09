@@ -37,4 +37,5 @@
 4. `game.cpp`: Server, to control how this game work.
 5. `LCD.c`: Functions to visualize patterns or words on PXA270
 6. `LCD.h`: Saved patterns for `Memory Game`, include 6 patterns and one back ground (cards all hidden).
-7. `main.cpp`: Main function to run the server.
+7. `random_map.c`: Functions for generating the random patterns for the game.
+8. `main.cpp`: Main function to run the server.
